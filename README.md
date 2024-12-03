@@ -1,0 +1,1 @@
+Este projeto de POO consiste em uma sistema de mercado feito totalmente em Java, a aplicação realiza o controle de estoque de produtos, e gerencia as relações de funcionários(apenas para usuários identificados como 'Admin'), seguindo as normas do CRUD
